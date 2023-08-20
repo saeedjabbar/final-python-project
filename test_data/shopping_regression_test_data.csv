@@ -1,0 +1,4 @@
+username,password,test_cases,product_name
+standard_user,secret_sauce,Verify adding a product from products page,Sauce Labs Backpack
+standard_user,secret_sauce,Verify return back to inventory page from cart,Sauce Labs Backpack
+standard_user,secret_sauce,Verify place a successful order with multiple products,"Sauce Labs Backpack,Sauce Labs Bike Light,Sauce Labs Fleece Jacket,Sauce Labs Bolt T-Shirt"

@@ -1,0 +1,11 @@
+*/__pycache__/
+**/*/__pycache__/
+**/__pycache__/
+logs/
+reports/
+screenshots/
+.idea/
+*.DS_STORE
+__pycache__/
+.pytest_cache/
+venv/

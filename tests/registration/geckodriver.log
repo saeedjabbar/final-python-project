@@ -1,0 +1,13 @@
+1692487886954	geckodriver	INFO	Listening on 127.0.0.1:55578
+1692487887436	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/j0/05fyhw4s4c12b8pzp0ry11040000gn/T/rust_mozprofileSkDQEF"
+1692487887924	Marionette	INFO	Marionette enabled
+1692487887982	Marionette	INFO	Listening on port 55616
+WebDriver BiDi listening on ws://127.0.0.1:55579
+Read port: 55616
+1692487888206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/j0/05fyhw4s4c12b8pzp0ry11040000gn/T/rust_mozprofileSkDQEF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55579/devtools/browser/9454423e-cb20-4d0c-af29-0825eee4529c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1692487922972	Marionette	INFO	Stopped listening on port 55616
