@@ -1,4 +1,4 @@
-Note: Use firefox browser for running tests, as chrome has had updates
+**Note:** Use firefox browser for running tests, as chrome has had updates
 
 CD into project directory
 
